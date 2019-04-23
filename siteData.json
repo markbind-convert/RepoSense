@@ -1,0 +1,114 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "headings": {
+        "hello-world": "Hello world"
+      },
+      "title": "Hello World",
+      "src": "index.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "build-from-source": "Build from Source"
+      },
+      "src": "Build.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "reposense-developer-guide": "RepoSense - Developer Guide",
+        "setting-up": "Setting up",
+        "prerequisites": "Prerequisites",
+        "setting-up-the-project-in-your-computer-using-intellij": "Setting up the project in your computer using IntelliJ",
+        "verifying-the-setup": "Verifying the setup",
+        "configuring-the-java-coding-style": "Configuring the Java coding style",
+        "configuring-the-javascript-coding-style": "Configuring the JavaScript coding style",
+        "configuring-cypress-for-automated-front-end-testing": "Configuring Cypress for automated front-end testing",
+        "before-writing-code": "Before writing code",
+        "building-and-running-reposense-from-code": "Building and running RepoSense from code",
+        "architecture": "Architecture",
+        "parser-configparser": "Parser(ConfigParser)",
+        "git": "Git",
+        "commitsreporter": "CommitsReporter",
+        "authorshipreporter": "AuthorshipReporter",
+        "reportgenerator-main": "ReportGenerator(Main)",
+        "system": "System",
+        "model": "Model",
+        "html-report": "HTML Report",
+        "report-architecture": "Report Architecture",
+        "javascript-files": "Javascript Files",
+        "json-report-files": "JSON Report Files",
+        "main-main-js": "Main (main.js)",
+        "data-loader-api-js": "Data loader (api.js)",
+        "summary-view-v-summary-js": "Summary View (v_summary.js)",
+        "authorship-view-v-authorship-js": "Authorship View (v_authorship.js)"
+      },
+      "src": "DeveloperGuide.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "process": "Process",
+        "how-to-contribute": "How to contribute"
+      },
+      "src": "Process.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "using-travis-to-automate-publishing-of-your-report-to-github-pages": "Using Travis to automate publishing of your report to GitHub Pages",
+        "keeping-your-site-up-to-date-with-your-code-contribution": "Keeping your site up-to-date with your code contribution",
+        "specifying-which-version-of-reposense-to-use": "Specifying which version of RepoSense to use",
+        "managing-your-configuration-files-with-the-help-of-collaborators": "Managing your configuration files with the help of collaborators"
+      },
+      "src": "PublishingGuide.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "reposense-user-guide": "RepoSense - User Guide",
+        "getting-started": "Getting Started",
+        "interpreting-the-report": "Interpreting the Report",
+        "chart-panel": "Chart Panel",
+        "code-panel": "Code Panel",
+        "tool-bar": "Tool Bar",
+        "configuring-a-repo-to-provide-additional-data-to-reposense": "Configuring a Repo to Provide Additional Data to RepoSense",
+        "provide-data-using-a-json-config-file": "Provide Data Using a json Config File",
+        "provide-data-using-author-tags": "Provide Data Using @@author Tags",
+        "customizing-the-analysis": "Customizing the Analysis",
+        "customize-using-command-line-parameters": "Customize Using Command Line Parameters",
+        "customize-using-csv-config-files": "Customize Using csv Config Files",
+        "analyzing-multiple-repos": "Analyzing Multiple Repos",
+        "using-travis-ci-to-automate-publishing-of-the-report-to-github-pages": "Using Travis-CI to automate publishing of the report to GitHub Pages",
+        "faq": "FAQ"
+      },
+      "src": "UserGuide.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "using-checkstyle-idea": "Using Checkstyle-IDEA",
+        "configuring-checkstyle-idea": "Configuring Checkstyle-IDEA",
+        "troubleshooting-checkstyle-idea": "Troubleshooting Checkstyle-IDEA"
+      },
+      "src": "UsingCheckstyle.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "about": "About"
+      },
+      "src": "about.md",
+      "title": "",
+      "layout": "default"
+    }
+  ]
+}
